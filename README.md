@@ -12,11 +12,13 @@ Pada tugas ini saya menggunakan fitur function dan menggunakan penyimpanan data 
 
 ![Screenshot (176)](https://user-images.githubusercontent.com/115516800/205497107-4f97b3c6-1e3c-44d2-ad23-a7a1ab8cd3c5.png)
 
-3. Mengubah Data Nilai Mahasiswa dan Melihat Hasilnya
+3. Mengubah Data Nilai Mahasiswa 
 
 ![Screenshot (177)](https://user-images.githubusercontent.com/115516800/205497187-7f86dfe7-6f64-41a9-bc22-66c3e7e72198.png)
 
-![Screenshot (178)](https://user-images.githubusercontent.com/115516800/205497215-fe657ead-8739-4ecd-9177-378e67ae4ed6.png)
+Melihat Hasilnya
+
+![Screenshot (178)](https://user-images.githubusercontent.com/115516800/205497584-b3dc205b-8b8e-44a0-8554-12b09974c907.png)
 
 4. Menghapus Data Nilai Mahasiswa
 
